@@ -1,0 +1,170 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0px"></mj-all>
+      <mj-class name="preheader" color="#000000" font-size="11px" font-family="Arial" padding="0px"></mj-class>
+    </mj-attributes>
+    <!-- <mj-style inline="inline">a { text-decoration: none; color: inherit }</style> -->
+  </mj-head>
+  <mj-body background-color="#e0f2ff">
+    <mj-body>
+      <mj-section background-color="#2a5cab" padding="0 0">
+        <mj-column width="100%">
+          <mj-image src="./images/2_header.svg" alt="logo" padding="0 0"></mj-image>
+        </mj-column>
+      </mj-section>
+
+     <mj-section background-color="#ffffff" padding-top="10px">
+        <mj-column width="100%">
+          <mj-text align="left" color="#494F66" font-size="18px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 25px 20px 25px">
+            <strong>¡Hola  <span style="color: #e85034">Ximena!</span>             
+          </mj-text>
+          <mj-text align="left" color="#494F66" font-size="18px" font-family="Lato, Helvetica, Arial, sans-serif" padding="0 25px 30px 25px">
+            <strong>
+              Estos son tus beneficios y descuentos de este mes.
+            </strong>
+          </mj-text>          
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding="0px 15px" >
+        <mj-column width="50%" padding="10px">
+          <mj-group>
+            <mj-column width="40%" padding="0px 10px" >
+              <mj-image align="right" width="90px" src="./images/2_item1.svg" alt="New York"></mj-image>
+            </mj-column>
+            <mj-column width="60%" padding="10px 5px">
+              <mj-text align="left" color="#494F66" font-size="18px" font-weight="900" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
+                KIT Covid a S/123
+              </mj-text>
+              <mj-text align="left" color="#494F66" font-size="14px" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="top" padding-bottom="15px">
+                Con oximetro careta, <br /> mascarillas K95 y más
+              </mj-text>
+              <mj-button align="left" border="2px solid #e85034" background-color="white" font-weight="bold" border-radius="8px" font-size="10px" color="#EF3340" inner-padding="7px 15px">
+                ¡CÓMPRALO AHORA!
+              </mj-button>
+            </mj-column>
+          </mj-group>
+        </mj-column>
+        <mj-column width="50%" padding="10px">
+          <mj-group>
+            <mj-column width="40%" padding="0px 10px">
+              <mj-image align="right" width="90px" src="./images/2_item2.svg" alt="New York"></mj-image>
+            </mj-column>
+            <mj-column width="60%" padding="10px 5px">
+              <mj-text align="left" color="#494F66" font-size="18px" font-weight="900" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
+                1 mes GRATIS
+              </mj-text>
+              <mj-text align="left" color="#494F66" font-size="14px" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="top" padding-bottom="15px">
+                De suscripción en el app <br /> para aprender a meditar
+              </mj-text>
+              <mj-button align="left" border="2px solid #e85034" background-color="white" font-weight="bold" border-radius="8px" font-size="10px" color="#EF3340" inner-padding="7px 15px">
+                ¡EMPIEZA A MEDITAR!
+              </mj-button>
+            </mj-column>
+          </mj-group>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-bottom="20px">
+        <mj-column width="50%" padding="10px">
+          <mj-group>
+            <mj-column width="40%" padding="0px 10px">
+              <mj-image align="right" width="90px" src="./images/2_item3.svg" alt="New York"></mj-image>
+            </mj-column>
+            <mj-column width="60%" padding="10px 5px">
+              <mj-text align="left" color="#494F66" font-size="18px" font-weight="900" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
+                30% de dscto
+              </mj-text>
+              <mj-text align="left" color="#494F66" font-size="14px" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="top" padding-bottom="15px">
+                En clases Fitness online <br /> con los mejores coaches
+              </mj-text>
+              <mj-button align="left" border="2px solid #e85034" background-color="white" font-weight="bold" border-radius="8px" font-size="10px" color="#EF3340" inner-padding="7px 15px">
+                ¡ENTRENA AQUI!
+              </mj-button>
+            </mj-column>
+          </mj-group>
+        </mj-column>
+        <mj-column width="50%" padding="10px">
+          <mj-group>
+            <mj-column width="40%" padding="0px 10px">
+              <mj-image align="right" width="90px" src="./images/2_item4.svg" alt="New York"></mj-image>
+            </mj-column>
+            <mj-column width="60%" padding="10px 5px">
+              <mj-text align="left" color="#494F66" font-size="18px" font-weight="900" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
+                20% de dscto
+              </mj-text>
+              <mj-text align="left" color="#494F66" font-size="14px" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="top" padding-bottom="15px">
+                En revisión técnica de tu <br /> bateria y/o una nueva
+              </mj-text>
+              <mj-button align="left" border="2px solid #e85034" background-color="white" font-weight="bold" border-radius="8px" font-size="10px" color="#EF3340" inner-padding="7px 15px">
+                ¡SOLICITA TU CÓDIGO!
+              </mj-button>
+            </mj-column>
+          </mj-group>
+        </mj-column>
+      </mj-section>
+  
+      <mj-section background-color="#EF3340" padding="10px 0px 0px 0px">
+        <!-- <mj-column width="50%" padding="0px 0px"> -->
+          <mj-group>
+            <mj-column width="30%" padding="5px 0px 0 0" border="0px solid blue">
+              <mj-image align="left" width="90px" src="./images/2_ruleta.svg" alt="New York"></mj-image>
+            </mj-column>
+            <mj-column width="70%" padding="10px 5px" border="0px solid green">
+              <mj-text align="left" color="white" font-size="16px" font-weight="bold" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="middle" padding-bottom="15px">                
+                ¡Ruleta ganadora!
+              </mj-text>
+              <mj-text align="left" color="white" font-size="14px" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="top" padding-bottom="15px">
+                Girala y gana vales de Rappi, Cornershop y más
+              </mj-text>
+              <mj-button align="left" background-color="white" font-weight="bold" border-radius="6px" font-size="10px" color="#EF3340" inner-padding="7px 15px">
+                GIRA LA RULETA
+              </mj-button>
+            </mj-column>
+          </mj-group>
+        <!-- </mj-column> -->
+      </mj-section>
+   
+      <mj-section background-color="white" padding="30px 0">
+        <mj-column vertical-align="top" width="33%" border="1px solid #E4E8F7">
+          <mj-text align="center" color="#6F7DFF" font-size="14px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 0">BENEFICIOS</mj-text>
+        </mj-column>
+        <mj-column vertical-align="top" width="33%" border="1px solid #E4E8F7">
+          <mj-text align="center" color="#6F7DFF" font-size="14px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 0">DOCTOR EN LINEA</mj-text>
+        </mj-column>
+        <mj-column vertical-align="top" width="33%" border="1px solid #E4E8F7">
+          <mj-text align="center" color="#6F7DFF" font-size="14px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 0">DESCARGA TU PÓLIZA</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#F7F8FC" padding="30px 25px">
+        <!-- <mj-column vertical-align="top" width="90%" padding="0 0"> -->
+        <mj-column vertical-align="top" width="33%" padding="0 0">
+          <mj-text align="left" color="#A3ABCC" font-size="10px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 0">ANULAR SUBSCRIPCIÓN</mj-text>
+        </mj-column>
+        <mj-column vertical-align="top" width="33%" padding="0 0">
+          <mj-text align="left" color="#A3ABCC" font-size="10px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 0">ACTUALIZAR MIS DATOS</mj-text>
+        </mj-column>
+        <mj-column vertical-align="top" width="33%" border="1px solid #E4E8F7" align="left">
+          <mj-group vertical-align="top" padding="0 0">
+            <mj-column border="1px solid red" style="width=50px">
+              <mj-image align="left" height="20px" src="./images/fa.svg" alt="New York"></mj-image>
+            </mj-column>
+            <mj-column border="1px solid blue" style="width=50px">
+              <mj-image align="left" height="20px" src="./images/lin.svg" alt="New York"></mj-image>
+            </mj-column>
+          </mj-group>
+        </mj-column>
+        <!-- </mj-column> -->
+      </mj-section>
+      <mj-section background-color="#F7F8FC" padding-bottom="30px">
+        <mj-column vertical-align="top" width="100%">
+          <mj-text align="left" color="#676F8F" font-size="10px" line-height="18px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 25px">Tienes acceso a las novedades de RIMAC desde %%EMAIL%%.
+            Por favor, no respondas a este mensaje, este correo fue enviado desde una dirección de notificaciones y no puede aceptar correo electrónico entrante. Para consultas, escríbenos a
+            <span style="color: #6F7DFF; text-decoration-line: underline;">atencionalcliente@rimac.com.pe</span>
+            <br />
+            <br />
+            © 2020 RIMAC SEGUROS Y REASEGUROS. Todos los Derechos Reservados.</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-body>
+</mjml>
