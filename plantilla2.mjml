@@ -31,8 +31,8 @@
         <mj-column width="100%" border="1px solid #F0F2FA">
           <mj-column width="100%" border="1px solid #F0F2FA">
             <mj-group>
-              <mj-column width="40%" padding="20px 10px" >
-                <mj-image align="right" width="90px" src="./images/2_item1.svg" alt="New York"></mj-image>
+              <mj-column width="40%" padding="20px 20px" >
+                <mj-image align="center" width="90px" src="./images/2_item1.svg" alt="New York"></mj-image>
               </mj-column>
               <mj-column width="60%" padding="20px 5px" >
                 <mj-text align="left" color="#494F66" font-size="18px" font-weight="900" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
@@ -49,8 +49,8 @@
           </mj-column>
           <mj-column width="100%" border="1px solid #F0F2FA">
             <mj-group>
-              <mj-column width="40%" padding="20px 10px">
-                <mj-image align="right" width="90px" src="./images/2_item2.svg" alt="New York"></mj-image>
+              <mj-column width="40%" padding="20px 20px">
+                <mj-image align="center" width="90px" src="./images/2_item2.svg" alt="New York"></mj-image>
               </mj-column>
               <mj-column width="60%" padding="20px 5px">
                 <mj-text align="left" color="#494F66" font-size="18px" font-weight="900" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
@@ -67,8 +67,8 @@
           </mj-column>
           <mj-column width="100%" border="1px solid #F0F2FA">
             <mj-group>
-              <mj-column width="40%" padding="20px 10px">
-                <mj-image align="right" width="90px" src="./images/2_item3.svg" alt="New York"></mj-image>
+              <mj-column width="40%" padding="20px 20px">
+                <mj-image align="center" width="90px" src="./images/2_item3.svg" alt="New York"></mj-image>
               </mj-column>
               <mj-column width="60%" padding="20px 5px">
                 <mj-text align="left" color="#494F66" font-size="18px" font-weight="900" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
@@ -85,8 +85,8 @@
           </mj-column>
           <mj-column width="100%" border="1px solid #F0F2FA">
             <mj-group>
-              <mj-column width="40%" padding="20px 10px">
-                <mj-image align="right" width="90px" src="./images/2_item4.svg" alt="New York"></mj-image>
+              <mj-column width="40%" padding="20px 20px">
+                <mj-image align="center" width="90px" src="./images/2_item4.svg" alt="New York"></mj-image>
               </mj-column>
               <mj-column width="60%" padding="20px 5px">
                 <mj-text align="left" color="#494F66" font-size="18px" font-weight="900" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
