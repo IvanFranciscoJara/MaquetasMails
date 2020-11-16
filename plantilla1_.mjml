@@ -1,0 +1,150 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+      <mj-all font-family="Arial, sans-serif" />
+    </mj-attributes>
+    <mj-style>
+      @media only screen and (min-width:480px) {
+        .rimac-email-headline div {
+          font-size: 20px !important;
+          line-height: 28px !important;
+        }
+
+        .rimac-email-social {
+          text-align: right !important;
+        }
+
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body width="624px" background-color="#ffffff">
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column width="100%">
+        <mj-image padding="0" src="./images/git-macbook.gif" alt="Sorteo Makcbook" width="624px" fluid-on-mobile="true" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="16px 28px">
+      <mj-column width="480px" padding="0">
+        <mj-text padding="0" align="center" font-weight="bold" font-size="12px" line-height="18px" color="#676F8F" text-transform="uppercase" font-weight="bold">Hola Ximena</mj-text>
+        <mj-text padding="0" align="center" font-weight="bold" font-size="18px" line-height="24px" color="#494F66" css-class="rimac-email-headline">
+          Realiza una de estas gestiones y ¡entra automaticamente al sorteo de una <strong style="color:#EF3340;">Macbook Air!</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="16px 28px">
+      <mj-group vertical-align="top" width="312px">
+        <mj-column padding="0" width="33%">
+          <mj-image padding="0" src="./images/img01.jpg" alt="Realiza gestiones" width="101px" align="right" />
+        </mj-column>
+        <mj-column padding="0" padding-left="16px" padding-top="16px" width="67%">
+          <mj-text  padding="0"  font-size="16px" line-height="28px" font-weight="bold" color="#494F66">
+            <strong style="color:#EF3340;">Actualiza</strong> tus datos
+          </mj-text>
+          <mj-text  padding="0"  font-size="14px" line-height="20px" color="#494F66" padding-bottom="16px">
+            Verifica que tus datos esten correctos
+          </mj-text>
+          <mj-button href="https://rimac.com/" padding="0" align="left" font-size="10px" text-transform="uppercase"  font-weight="bold" color="#EF3340" background-color="#FFFFFF" border="1.5px solid #EF3340" inner-padding="8px 16px" border-radius="8px">
+            <span style="color:#EF3340; letter-spacing:0.2px; text-decoration: underline;">actualiza aqu&iacute;</span>
+          </mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="16px 28px">
+      <mj-group vertical-align="top" width="312px">
+        
+        <mj-column padding="0" padding-right="16px" padding-top="16px" width="67%">
+          <mj-text  padding="0"  font-size="16px" line-height="28px" font-weight="bold" align="right" color="#494F66" letter-spacing="-0.5px">
+            Estado de <strong style="color:#EF3340;">Cuenta</strong>
+          </mj-text>
+          <mj-text  padding="0"  font-size="14px" line-height="20px" color="#494F66" padding-bottom="16px" align="right">
+            Revisa tus pagos o financia tus cuotas
+          </mj-text>
+          <mj-button href="https://rimac.com/" padding="0" align="right" font-size="10px" text-transform="uppercase"  font-weight="bold" color="#EF3340" background-color="#FFFFFF" border="1.5px solid #EF3340" inner-padding="8px 16px" border-radius="8px">
+            <span style="color:#EF3340; letter-spacing:0.2px; text-decoration: underline;">Ver pagos</span>
+          </mj-button>
+        </mj-column>
+        <mj-column padding="0" width="33%">
+          <mj-image padding="0" src="./images/img02.jpg" alt="Estado de cuenta" width="101px" align="left" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section padding="16px 28px">
+      <mj-group vertical-align="top" width="312px">
+        <mj-column padding="0" width="33%">
+          <mj-image padding="0" src="./images/img03.jpg" alt="Doctor en l&acute;nea" width="101px" align="right" />
+        </mj-column>
+        <mj-column padding="0" padding-left="16px" padding-top="16px" width="67%">
+          <mj-text  padding="0"  font-size="16px" line-height="28px" font-weight="bold" color="#494F66" letter-spacing="-0.5px">
+            <strong style="color:#EF3340;">Servicios</strong> Rimac
+          </mj-text>
+          <mj-text  padding="0"  font-size="14px" line-height="20px" color="#494F66" padding-bottom="16px">
+            Utiliza el buscador de cl&iacute;nicas, Dr. en l&iacute;nea ...
+          </mj-text>
+          <mj-button href="https://rimac.com/" padding="0" align="left" font-size="10px" text-transform="uppercase"  font-weight="bold" color="#EF3340" background-color="#FFFFFF" border="1.5px solid #EF3340" inner-padding="8px 16px" border-radius="8px">
+            <span style="color:#EF3340; letter-spacing:0.2px; text-decoration: none;">Ver servicios</span>
+          </mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding="16px 28px 56px 28px">
+      <mj-column width="100%">
+        <mj-text  font-size="14px" line-height="24px" color="#676F8F" align="left">
+          Revisa los <a href="https://rimac.com/" style="text-decoration:underline; color: #6F7DFF; font-family: Arial, sans-serif;" target="_blank"><span style="color: #6F7DFF;text-decoration:underline;">terminos y condiciones</span></a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" border-top="1px solid #E4E8F7">
+      <mj-column padding="0px" padding="0px" border-bottom="1px solid #E4E8F7" border-right="1px solid #E4E8F7" border-left="1px solid #E4E8F7">
+        <mj-button href="https://rimac.com/" background-color="#FFFFFF" color="#6F7DFF" font-size="12px" line-height="16px"  padding="0">
+          <span style="letter-spacing:0.4px; text-decoration:none; text-transform: uppercase;">Doctor en l&iacute;nea</span>
+        </mj-button>
+      </mj-column>
+      <mj-column padding="0px" border-bottom="1px solid #E4E8F7" border-right="1px solid #E4E8F7">
+        <mj-button href="https://rimac.com/" background-color="#FFFFFF" color="#6F7DFF" font-size="12px" line-height="16px"   padding="0">
+          <span style="letter-spacing:0.4px; text-decoration:none; text-transform: uppercase;">Descarga tu p&oacute;liza</span>
+        </mj-button>
+      </mj-column>
+      <mj-column padding="0px" border-bottom="1px solid #E4E8F7" border-right="1px solid #E4E8F7">
+        <mj-button href="https://rimac.com/" background-color="#FFFFFF" color="#6F7DFF" font-size="12px" line-height="16px"   padding="0">
+          <span style="letter-spacing:0.4px; text-decoration:none; text-transform: uppercase;">Beneficios</span>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+  
+    <mj-section background-color="#F7F8FC" padding="40px 28px 0px 28px">
+      <mj-column padding="4px 40px 0 0">
+        <mj-text align="left" padding="4px 0">
+          <a href="https://rimac.com/" target="_blank" style="text-decoration:none; color: #A3ABCC; font-family: Arial, sans-serif; font-size: 10px; line-height: 18px;">
+          <span style="text-decoration: none;color: #A3ABCC;">ANULAR SUSCRIPCI&Oacute;N</span></a>
+        </mj-text>
+      </mj-column>
+      <mj-column padding="4px 0">
+        <mj-text align="left" padding="4px 0">
+          <a href="https://rimac.com/" target="_blank" style="text-decoration:none; color: #A3ABCC; font-family: Arial, sans-serif; font-size: 10px; line-height: 18px;"><span style="text-decoration: none; color: #A3ABCC;">ACTUALIZAR MIS DATOS</span></a>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-social icon-size="20px" mode="horizontal" align="left" padding="0px" css-class="rimac-email-social">
+          <mj-social-element src="./images/icon-fb.png" href="https://rimac.com/">
+          </mj-social-element>
+          <mj-social-element src="./images/icon-linkedin.png" href="https://rimac.com/">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F7F8FC" padding="0px 28px 38px">
+      <mj-column padding="0px">
+        <mj-text font-family="Arial, sans-serif" font-size="10px" line-height="18px" color="#676F8F" padding="10px 0">
+          Tienes acceso a las novedades de RIMAC desde <span style="white-space: nowrap;">%%EMAIL%%</span>.<br>
+          Por favor, no respondas a este mensaje, este correo fue enviado desde una direcci&oacute;n de notificaciones y no puede aceptar correo electr&oacute;nico entrante. Para consultas, escr&iacute;benos a <a href="https://rimac.com/" target="_blank" style="text-decoration:underline; color: #6F7DFF; font-family: Arial, sans-serif;"><span style="color: #6F7DFF;text-decoration: none;">atencionalcliente@rimac.com.pe</span></a>
+        </mj-text>
+        <mj-text font-family="Arial, sans-serif" font-size="10px" line-height="18px" color="#676F8F" padding="10px 0">
+          &copy; 2020 RIMAC SEGUROS Y REASEGUROS. Todos los Derechos Reservados.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

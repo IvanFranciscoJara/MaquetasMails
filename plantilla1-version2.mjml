@@ -29,63 +29,69 @@
           <!-- <mj-text align="center" color="#EC652D" font-size="18px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 30px"><strong>Have a look at some of the top destinations people are booking right now!</strong></mj-text> -->
         </mj-column>
       </mj-section>
-      <mj-section background-color="#ffffff" padding="20px 0px">
-        <mj-column width="50%" padding="0px 0px">
+
+      <mj-section background-color="white" padding="20px">
+        <mj-column width="70%">
           <mj-group>
-            <mj-column width="45%" padding="0px 10px">
-              <mj-image align="right" width="90px" src="./images/1_personita1.jpg" alt="New York"></mj-image>
-            </mj-column>
-            <mj-column width="55%" padding="10px 5px">
+            <mj-column width="50%" padding="15px">
+              <mj-image align="left" width="90px" padding-bottom="20px" src="./images/1_v2_imagen1.jpg" alt="New York"></mj-image>
               <mj-text align="left" color="#494F66" font-size="16px" font-weight="bold" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
-                <span style="color: #e85034">Actualiza</span>
-                tus datos
+                Actualiza tus datos
               </mj-text>
               <mj-text align="left" color="#494F66" font-size="14px" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="top" padding-bottom="15px">
-                Verifica que tus datos <br /> esten correctos
+                Verifica que tus datos esten correctos
               </mj-text>
-              <mj-button align="left" border="2px solid #e85034" background-color="white" font-weight="bold" border-radius="6px" font-size="10px" color="#EF3340" inner-padding="7px 15px">ACTUALIZA AQUI</mj-button>
+              <mj-button align="left" border="2px solid #e85034" background-color="white" font-weight="bold" border-radius="6px" font-size="10px" color="#EF3340" inner-padding="7px 0px">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ACTUALIZA AQUI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              </mj-button>
             </mj-column>
-          </mj-group>
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="white" padding="20px 0">
-        <mj-column width="50%" padding="0px 0px">
-          <mj-group>
-            <mj-column width="55%" padding="10px 5px 10px 0px">
-              <mj-text align="right" color="#494F66" font-size="16px" font-weight="bold" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
-                Estado de
-                <span style="color: #e85034">Cuenta</span>
-              </mj-text>
-              <mj-text align="right" color="#494F66" font-size="14px" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="top" padding-bottom="15px">
-                Verifica que tus datos <br /> esten correctos
-              </mj-text>
-              <mj-button align="right" border="2px solid #e85034" background-color="white" font-weight="bold" border-radius="6px" font-size="10px" color="#EF3340" inner-padding="7px 15px">ACTUALIZA AQUI</mj-button>
-            </mj-column>
-            <mj-column width="45%" padding="0px 10px">
-              <mj-image align="left" width="90px" src="./images/1_personita2.jpg" alt="New York"></mj-image>
-            </mj-column>
-          </mj-group>
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="#ffffff" padding="20px 0px">
-        <mj-column width="50%" padding="0px 0px">
-          <mj-group>
-            <mj-column width="45%" padding="0px 10px">
-              <mj-image align="right" width="90px" src="./images/1_personita3.jpg" alt="New York"></mj-image>
-            </mj-column>
-            <mj-column width="55%" padding="10px 5px">
+            <mj-column width="50%" padding="15px">
+              <mj-image align="left" width="90px" padding-bottom="20px" src="./images/1_v2_imagen2.jpg" alt="New York"></mj-image>
               <mj-text align="left" color="#494F66" font-size="16px" font-weight="bold" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
-                <span style="color: #e85034">Servicios</span>
-                Rimac
+                Estado de Cuenta
               </mj-text>
               <mj-text align="left" color="#494F66" font-size="14px" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="top" padding-bottom="15px">
-                Verifica que tus datos <br /> esten correctos
+                Revisa tus pagos o financia tus cuotas
               </mj-text>
-              <mj-button align="left" border="2px solid #e85034" background-color="white" font-weight="bold" border-radius="6px" font-size="10px" color="#EF3340" inner-padding="7px 15px">ACTUALIZA AQUI</mj-button>
+              <mj-button align="left" border="2px solid #e85034" background-color="white" font-weight="bold" border-radius="6px" font-size="10px" color="#EF3340" inner-padding="7px 0px">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VER PAGOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              </mj-button>
             </mj-column>
-          </mj-group>
+            <mj-group>
         </mj-column>
       </mj-section>
+
+      <mj-section background-color="white" padding="20px">
+        <mj-column width="70%">
+          <mj-group>
+            <mj-column width="50%" padding="15px">
+              <mj-image align="left" width="90px" padding-bottom="20px" src="./images/1_v2_imagen3.jpg" alt="New York"></mj-image>
+              <mj-text align="left" color="#494F66" font-size="16px" font-weight="bold" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
+                Servicios Rimac
+              </mj-text>
+              <mj-text align="left" color="#494F66" font-size="14px" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="top" padding-bottom="15px">
+                Utiliza el buscador de clínicas, Dr. en linea ...
+              </mj-text>
+              <mj-button align="left" border="2px solid #e85034" background-color="white" font-weight="bold" border-radius="6px" font-size="10px" color="#EF3340" inner-padding="7px 0px">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VER SERVICIOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              </mj-button>
+            </mj-column>
+            <mj-column width="50%" padding="15px">
+              <mj-image align="left" width="90px" padding-bottom="20px" src="./images/1_v2_imagen4.jpg" alt="New York"></mj-image>
+              <mj-text align="left" color="#494F66" font-size="16px" font-weight="bold" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
+                Tramites
+              </mj-text>
+              <mj-text align="left" color="#494F66" font-size="14px" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="top" padding-bottom="15px">
+                Consulta tus reembolsos y reclamos
+              </mj-text>
+              <mj-button align="left" border="2px solid #e85034" background-color="white" font-weight="bold" border-radius="6px" font-size="10px" color="#EF3340" inner-padding="7px 0px">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VER TRAMITES&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              </mj-button>
+            </mj-column>
+            <mj-group>
+        </mj-column>
+      </mj-section>
+
       <mj-section background-color="white" padding="20px 10px">
         <mj-column vertical-align="top" width="90%">
           <mj-text align="left" color="#676F8F" font-size="14px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 25px">Revisa los <a style="color: #6F7DFF; text-decoration-line: underline;" href="https://www.google.com">terminos y condiciones</a></mj-text>

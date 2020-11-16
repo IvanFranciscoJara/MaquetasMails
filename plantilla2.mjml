@@ -3,12 +3,12 @@
     <mj-attributes>
       <mj-all padding="0px"></mj-all>
       <mj-class name="preheader" color="#000000" font-size="11px" padding="0px" font-family="Ubuntu, Helvetica, Arial, sans-serif"></mj-class>
-    </mj-attributes>    
+    </mj-attributes>
   </mj-head>
   <mj-body>
     <mj-section>
       <mj-column width="100%">
-        <mj-image src="./images/2_Gif_beneficios.gif" alt="Mi Mundo Rima"></mj-image>
+        <mj-image src="./images/2_Gif_beneficios.gif" alt="Mi Mundo Rima" href="https://personas.rimac.com/micuenta/login?resource=/micuenta/mis-beneficios&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_clientes_beneficios:empieza-aqui:boton"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="10px">
@@ -35,8 +35,8 @@
               <mj-text align="left" color="#494F66" font-size="14px" vertical-align="top" padding-bottom="15px">
                 Con oximetro careta, mascarillas K95 y más
               </mj-text>
-              <mj-button align="left" background-color="#EF3340"  border-radius="8px" font-size="10px" color="white" inner-padding="7px 15px">
-                ¡CÓMPRALO AHORA!
+              <mj-button align="left" background-color="#EF3340" border-radius="8px" font-size="10px" color="white" inner-padding="7px 0px" href="https://personas.rimac.com/mi-cuenta/home?mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_clientes_beneficios:kit-covid-compralo-ahora:boton">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;¡CÓMPRALO AHORA!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               </mj-button>
             </mj-column>
           </mj-group>
@@ -53,8 +53,8 @@
               <mj-text align="left" color="#494F66" font-size="14px" vertical-align="top" padding-bottom="15px">
                 De suscripción en el app para aprender a meditar
               </mj-text>
-              <mj-button align="left" background-color="#EF3340" border-radius="8px" font-size="10px" color="white" inner-padding="7px 15px">
-                ¡EMPIEZA A MEDITAR!
+              <mj-button align="left" background-color="#EF3340" border-radius="8px" font-size="10px" color="white" inner-padding="7px 0px" href="https://personas.rimac.com/micuenta/login?resource=/micuenta/mis-beneficios&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_clientes_beneficios:pura-mente-empieza-meditar:boton">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;¡EMPIEZA A MEDITAR!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               </mj-button>
             </mj-column>
           </mj-group>
@@ -71,8 +71,8 @@
               <mj-text align="left" color="#494F66" font-size="14px" vertical-align="top" padding-bottom="15px">
                 En clases Fitness online con los mejores coaches
               </mj-text>
-              <mj-button align="left" background-color="#EF3340" border-radius="8px" font-size="10px" color="white" inner-padding="7px 15px">
-                ¡ENTRENA AQUI!
+              <mj-button align="left" background-color="#EF3340" border-radius="8px" font-size="10px" color="white" inner-padding="7px 0px" href="https://personas.rimac.com/micuenta/login?resource=/micuenta/mis-beneficios&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_clientes_beneficios:fitness-pass-entrena-aqui:boton">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;¡ENTRENA AQUI!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               </mj-button>
             </mj-column>
           </mj-group>
@@ -86,52 +86,58 @@
               <mj-text align="left" color="#494F66" font-size="18px" font-weight="bold" font-family="Lato, Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
                 20% de dscto
               </mj-text>
-              <mj-text align="left" color="#494F66" font-size="14px"  vertical-align="top" padding-bottom="15px">
+              <mj-text align="left" color="#494F66" font-size="14px" vertical-align="top" padding-bottom="15px">
                 En revisión técnica de tu bateria y/o una nueva
               </mj-text>
-              <mj-button align="left" background-color="#EF3340"  border-radius="8px" font-size="10px" color="white" inner-padding="7px 15px">
-                SOLICITA TU CÓDIGO
+              <mj-button align="left" background-color="#EF3340" border-radius="8px" font-size="10px" color="white" inner-padding="7px 0px" href="https://personas.rimac.com/micuenta/login?resource=/micuenta/mis-beneficios&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_clientes_beneficios:etna-solicita-codigo:boton">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SOLICITA TU CÓDIGO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               </mj-button>
             </mj-column>
           </mj-group>
         </mj-column>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#EF3340" padding="10px 0px 0px 0px">      
+    <mj-section background-color="#EF3340" padding="10px 0px 0px 0px">
       <mj-group>
         <mj-column width="30%" padding="5px 0px 0 0">
           <mj-image align="left" width="90px" src="./images/2_ruleta.png" alt="Ruleta"></mj-image>
         </mj-column>
         <mj-column width="70%" padding="10px 5px">
-          <mj-text align="left" color="white" font-size="16px" font-weight="bold"  vertical-align="middle" padding-bottom="15px">
+          <mj-text align="left" color="white" font-size="16px" font-weight="bold" vertical-align="middle" padding-bottom="15px">
             ¡Ruleta ganadora!
           </mj-text>
-          <mj-text align="left" color="white" font-size="14px"  vertical-align="top" padding-bottom="15px">
+          <mj-text align="left" color="white" font-size="14px" vertical-align="top" padding-bottom="15px">
             Girala y gana vales de Rappi, Cornershop y más
           </mj-text>
-          <mj-button align="left" background-color="white" font-weight="bold" border-radius="6px" font-size="10px" color="#EF3340" inner-padding="7px 15px">
-            GIRA LA RULETA
+          <mj-button align="left" background-color="white" font-weight="bold" border-radius="6px" font-size="10px" color="#EF3340" inner-padding="7px 0px" href="www.google.com">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GIRA LA RULETA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           </mj-button>
         </mj-column>
-      </mj-group>      
+      </mj-group>
     </mj-section>
     <mj-section background-color="white">
       <mj-column vertical-align="top" width="34%" border="1px solid #E4E8F7">
-        <mj-text align="center" color="#6F7DFF" font-size="14px"  padding="10px 0">BENEFICIOS</mj-text>
+        <mj-button width="100%" align="left" background-color="white" border-radius="6px" font-size="14px" color="#6F7DFF" inner-padding="7px 0px" href="https://personas.rimac.com/micuenta/login?resource=/micuenta/mis-beneficios&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_clientes_beneficios:beneficios:boton">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BENEFICIOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </mj-button>
       </mj-column>
       <mj-column vertical-align="top" width="33%" border="1px solid #E4E8F7">
-        <mj-text align="center" color="#6F7DFF" font-size="14px"  padding="10px 0">DOCTOR EN LINEA</mj-text>
+        <mj-button width="100%" align="left" background-color="white" border-radius="6px" font-size="14px" color="#6F7DFF" inner-padding="7px 0px" href="https://personas.rimac.com/mi-cuenta/home?mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_clientes_beneficios:doctor-linea:boton">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DOCTOR EN LINEA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </mj-button>
       </mj-column>
-      <mj-column vertical-align="top" width="32%" border="1px solid #E4E8F7">
-        <mj-text align="center" color="#6F7DFF" font-size="14px"  padding="10px 0">DESCARGA TU PÓLIZA</mj-text>
+      <mj-column vertical-align="top" width="33%" border="1px solid #E4E8F7">
+        <mj-button width="100%" align="left" background-color="white" border-radius="6px" font-size="14px" color="#6F7DFF" inner-padding="7px 0px" href="https://personas.rimac.com/?resource=/micuenta/mis-seguros&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_clientes_beneficios:descarga-poliza:boton">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DESCARGA TU PÓLIZA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#F7F8FC" padding="35px">
       <mj-column vertical-align="top" width="33%">
-        <mj-text align="left" color="#A3ABCC" font-size="10px"  padding="10px 0">ANULAR SUBSCRIPCIÓN</mj-text>
+        <mj-text align="left" color="#A3ABCC" font-size="10px" padding="10px 0">ANULAR SUBSCRIPCIÓN</mj-text>
       </mj-column>
       <mj-column vertical-align="top" width="33%">
-        <mj-text align="left" color="#A3ABCC" font-size="10px"  padding="10px 0">ACTUALIZAR MIS DATOS</mj-text>
+        <mj-text align="left" color="#A3ABCC" font-size="10px" padding="10px 0">ACTUALIZAR MIS DATOS</mj-text>
       </mj-column>
       <mj-column vertical-align="top" width="33%" align="left">
         <mj-group vertical-align="top">
@@ -142,11 +148,11 @@
             <mj-image align="center" width="20px" src="./images/2_linkedin.jpg" alt="linkedin" target="_blank" href="https://www.linkedin.com/company/rimac-seguros/" title="Rimac"></mj-image>
           </mj-column>
         </mj-group>
-      </mj-column>      
+      </mj-column>
     </mj-section>
     <mj-section background-color="#F7F8FC" padding-bottom="30px">
       <mj-column vertical-align="top" width="100%">
-        <mj-text align="left" color="#676F8F" font-size="10px" line-height="18px"  padding="10px 35px">Tienes acceso a las novedades de RIMAC desde %%EMAIL%%.
+        <mj-text align="left" color="#676F8F" font-size="10px" line-height="18px" padding="10px 35px">Tienes acceso a las novedades de RIMAC desde %%EMAIL%%.
           Por favor, no respondas a este mensaje, este correo fue enviado desde una dirección de notificaciones y no puede aceptar correo electrónico entrante. Para consultas, escríbenos a
           <a href="mailto:atencionalcliente@rimac.com.pe" target="_blank" style="color: #6F7DFF; text-decoration-line: underline;">atencionalcliente@rimac.com.pe</a>
           <br />
