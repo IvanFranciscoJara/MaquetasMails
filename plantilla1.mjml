@@ -13,37 +13,40 @@
           <mj-image src="./images/1_Gif_macbook-air.gif" alt="logo" padding="0 0"></mj-image>
         </mj-column>
       </mj-section>
-      <mj-section background-color="#ffffff" padding-top="10px">
+      <mj-section background-color="#ffffff" padding="10px 0 25px 0">
         <mj-column width="100%">
-          <mj-text align="center" color="#676F8F" font-size="12px" font-family="Lato, Helvetica, Arial, sans-serif" padding="0 25px">
+          <mj-text align="center" color="#676F8F" font-size="12px" font-family="Arial, sans-serif" padding="0 25px">
             <strong>HOLA, XIMENA
               <br />
               <br />
           </mj-text>
-          <mj-text align="center" color="#676F8F" font-size="18px" font-family="Lato, Helvetica, Arial, sans-serif" padding="0 25px">
-            <strong>
-              Realiza una de esta gestiones y !entra automaticamente al sorteo de una
-              <span style="color: #e85034">Macbook Air!</span>
-            </strong>
-          </mj-text>
-          <!-- <mj-text align="center" color="#EC652D" font-size="18px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 30px"><strong>Have a look at some of the top destinations people are booking right now!</strong></mj-text> -->
+          <mj-column width="80%" align="center">
+            <mj-text align="center" color="#676F8F" font-size="18px" font-family="Arial, sans-serif" padding="0px 20px" line-height="24px">
+              <strong>
+                Realiza una de esta gestiones y ¡entra automaticamente al sorteo de una
+                <span style="color: #EF3340">Macbook Air!</span>
+              </strong>
+            </mj-text>
+          </mj-column>
         </mj-column>
       </mj-section>
       <mj-section background-color="#ffffff" padding="20px 0px">
         <mj-column width="50%" padding="0px 0px">
           <mj-group>
-            <mj-column width="45%" padding="0px 10px">
-              <mj-image align="right" width="90px" src="./images/1_personita1.jpg" alt="New York"></mj-image>
+            <mj-column width="45%" padding="0px 20px">
+              <mj-image align="right" width="90px" src="./images/1_personita1.jpg" alt="ActualizaTusDatos"></mj-image>
             </mj-column>
             <mj-column width="55%" padding="10px 5px">
-              <mj-text align="left" color="#494F66" font-size="16px" font-weight="bold" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
-                <span style="color: #e85034">Actualiza</span>
+              <mj-text align="left" color="#494F66" font-size="16px" font-weight="bold" font-family="Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
+                <span style="color: #EF3340">Actualiza</span>
                 tus datos
               </mj-text>
-              <mj-text align="left" color="#494F66" font-size="14px" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="top" padding-bottom="15px">
+              <mj-text align="left" color="#494F66" font-size="14px" font-family="Arial, sans-serif" vertical-align="top" padding-bottom="15px" line-height="20px">
                 Verifica que tus datos <br /> esten correctos
               </mj-text>
-              <mj-button align="left" border="2px solid #e85034" background-color="white" font-weight="bold" border-radius="6px" font-size="10px" color="#EF3340" inner-padding="7px 15px">ACTUALIZA AQUI</mj-button>
+              <mj-button align="left" background-color="#EF3340" font-weight="bold" border-radius="6px" font-size="10px" color="WHITE" inner-padding="7px 0px" href="https://personas.rimac.com/?resource=/micuenta/datos-personales&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_macbook_general:sorteo-macbook-b-actualiza-datos:boton">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ACTUALIZA AQUÍ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              </mj-button>
             </mj-column>
           </mj-group>
         </mj-column>
@@ -52,16 +55,18 @@
         <mj-column width="50%" padding="0px 0px">
           <mj-group>
             <mj-column width="55%" padding="10px 5px 10px 0px">
-              <mj-text align="right" color="#494F66" font-size="16px" font-weight="bold" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
+              <mj-text align="right" color="#494F66" font-size="16px" font-weight="bold" font-family="Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
                 Estado de
-                <span style="color: #e85034">Cuenta</span>
+                <span style="color: #EF3340">cuenta</span>
               </mj-text>
-              <mj-text align="right" color="#494F66" font-size="14px" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="top" padding-bottom="15px">
-                Verifica que tus datos <br /> esten correctos
+              <mj-text align="right" color="#494F66" font-size="14px" font-family="Arial, sans-serif" vertical-align="top" padding-bottom="15px" line-height="20px">
+                Revisa tus pagos o <br /> financia tus cuotas
               </mj-text>
-              <mj-button align="right" border="2px solid #e85034" background-color="white" font-weight="bold" border-radius="6px" font-size="10px" color="#EF3340" inner-padding="7px 15px">ACTUALIZA AQUI</mj-button>
+              <mj-button align="right" background-color="#EF3340" font-weight="bold" border-radius="6px" font-size="10px" color="WHITE" inner-padding="7px 0px" href="https://personas.rimac.com/?resource=/micuenta/datos-personales&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_macbook_general:sorteo-macbook-b-actualiza-datos:boton">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VER PAGOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              </mj-button>
             </mj-column>
-            <mj-column width="45%" padding="0px 10px">
+            <mj-column width="45%" padding="0px 20px">
               <mj-image align="left" width="90px" src="./images/1_personita2.jpg" alt="New York"></mj-image>
             </mj-column>
           </mj-group>
@@ -70,18 +75,20 @@
       <mj-section background-color="#ffffff" padding="20px 0px">
         <mj-column width="50%" padding="0px 0px">
           <mj-group>
-            <mj-column width="45%" padding="0px 10px">
-              <mj-image align="right" width="90px" src="./images/1_personita3.jpg" alt="New York"></mj-image>
+            <mj-column width="45%" padding="0px 20px">
+              <mj-image align="right" width="90px" src="./images/1_personita3.jpg" alt="Servicios Rimac"></mj-image>
             </mj-column>
             <mj-column width="55%" padding="10px 5px">
-              <mj-text align="left" color="#494F66" font-size="16px" font-weight="bold" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
-                <span style="color: #e85034">Servicios</span>
+              <mj-text align="left" color="#494F66" font-size="16px" font-weight="bold" font-family="Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
+                <span style="color: #EF3340">Servicios</span>
                 Rimac
               </mj-text>
-              <mj-text align="left" color="#494F66" font-size="14px" font-family="Lato, Helvetica, Arial, sans-serif" vertical-align="top" padding-bottom="15px">
-                Verifica que tus datos <br /> esten correctos
+              <mj-text align="left" color="#494F66" font-size="14px" font-family="Arial, sans-serif" vertical-align="top" padding-bottom="15px" line-height="20px">
+                Utiliza el buscador de <br /> clínicas, Dr. en linea ...
               </mj-text>
-              <mj-button align="left" border="2px solid #e85034" background-color="white" font-weight="bold" border-radius="6px" font-size="10px" color="#EF3340" inner-padding="7px 15px">ACTUALIZA AQUI</mj-button>
+              <mj-button align="left" background-color="#EF3340" font-weight="bold" border-radius="6px" font-size="10px" color="WHITE" inner-padding="7px 0px" href="https://personas.rimac.com/?resource=/micuenta/datos-personales&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_macbook_general:sorteo-macbook-b-actualiza-datos:boton">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VER SERVICIOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              </mj-button>
             </mj-column>
           </mj-group>
         </mj-column>
@@ -91,45 +98,45 @@
           <mj-text align="left" color="#676F8F" font-size="14px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 25px">Revisa los <a style="color: #6F7DFF; text-decoration-line: underline;" href="https://www.google.com">terminos y condiciones</a></mj-text>
         </mj-column>
       </mj-section>
-
-      <mj-section background-color="white">
+      
+      <mj-section background-color="white" border-top="1px solid #E4E8F7" border-bottom="1px solid #E4E8F7">
         <mj-column vertical-align="top" width="34%" border="1px solid #E4E8F7">
-          <mj-button width="100%" align="left" background-color="white" border-radius="6px" font-size="14px" color="#6F7DFF" inner-padding="7px 0px" href="https://personas.rimac.com/micuenta/login?resource=/micuenta/mis-beneficios&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_clientes_beneficios:beneficios:boton">
+          <mj-button width="100%" align="left" background-color="white" border-radius="6px" font-size="12px" color="#6F7DFF" inner-padding="16px 0px" href="https://personas.rimac.com/micuenta/login?resource=/micuenta/mis-beneficios&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_clientes_beneficios:beneficios:boton">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BENEFICIOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           </mj-button>
         </mj-column>
         <mj-column vertical-align="top" width="33%" border="1px solid #E4E8F7">
-          <mj-button width="100%" align="left" background-color="white" border-radius="6px" font-size="14px" color="#6F7DFF" inner-padding="7px 0px" href="https://personas.rimac.com/mi-cuenta/home?mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_clientes_beneficios:doctor-linea:boton">
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DOCTOR EN LINEA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <mj-button width="100%" align="left" background-color="white" border-radius="6px" font-size="12px" color="#6F7DFF" inner-padding="16px 0px" href="https://personas.rimac.com/mi-cuenta/home?mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_clientes_beneficios:doctor-linea:boton">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DOCTOR EN LÍNEA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           </mj-button>
         </mj-column>
         <mj-column vertical-align="top" width="33%" border="1px solid #E4E8F7">
-          <mj-button width="100%" align="left" background-color="white" border-radius="6px" font-size="14px" color="#6F7DFF" inner-padding="7px 0px" href="https://personas.rimac.com/?resource=/micuenta/mis-seguros&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_clientes_beneficios:descarga-poliza:boton">
+          <mj-button width="100%" align="left" background-color="white" border-radius="6px" font-size="12px" color="#6F7DFF" inner-padding="16px 0px" href="https://personas.rimac.com/?resource=/micuenta/mis-seguros&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_clientes_beneficios:descarga-poliza:boton">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DESCARGA TU PÓLIZA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           </mj-button>
         </mj-column>
       </mj-section>
-      <mj-section background-color="#F7F8FC" padding="35px">
-        <mj-column vertical-align="top" width="33%">
+      <mj-section background-color="#F7F8FC" padding="25px 35px 0px 35px" border="0px solid green">
+        <mj-column vertical-align="top" width="33%" border="0px solid blue">
           <mj-text align="left" color="#A3ABCC" font-size="10px" padding="10px 0">ANULAR SUBSCRIPCIÓN</mj-text>
         </mj-column>
-        <mj-column vertical-align="top" width="33%">
-          <mj-text align="left" color="#A3ABCC" font-size="10px" padding="10px 0">ACTUALIZAR MIS DATOS</mj-text>
+        <mj-column vertical-align="top" width="43%">
+          <mj-text align="left" color="#A3ABCC" font-size="10px" padding="10px 0 25px 0">ACTUALIZAR MIS DATOS</mj-text>
         </mj-column>
-        <mj-column vertical-align="top" width="33%" align="left">
+        <mj-column vertical-align="top" width="23%" align="left" padding-bottom="15px">
           <mj-group vertical-align="top">
-            <mj-column href="www.google.com">
-              <mj-image align="center" width="10px" src="./images/2_facebook.jpg" alt="facebook" target="_blank" href="https://www.facebook.com/segurosrimac" title="Rimac"></mj-image>
+            <mj-column width="30%">
+              <mj-image align="left" width="9px" src="./images/2_facebook.jpg" alt="facebook" target="_blank" href="https://www.facebook.com/segurosrimac" title="Rimac"></mj-image>
             </mj-column>
-            <mj-column>
-              <mj-image align="center" width="20px" src="./images/2_linkedin.jpg" alt="linkedin" target="_blank" href="https://www.linkedin.com/company/rimac-seguros/" title="Rimac"></mj-image>
+            <mj-column width="30%">
+              <mj-image align="left" width="18px" src="./images/2_linkedin.jpg" alt="linkedin" target="_blank" href="https://www.linkedin.com/company/rimac-seguros/" title="Rimac"></mj-image>
             </mj-column>
           </mj-group>
         </mj-column>
       </mj-section>
       <mj-section background-color="#F7F8FC" padding-bottom="30px">
         <mj-column vertical-align="top" width="100%">
-          <mj-text align="left" color="#676F8F" font-size="10px" line-height="18px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 25px">Tienes acceso a las novedades de RIMAC desde %%EMAIL%%.
+          <mj-text align="left" color="#676F8F" font-size="10px" line-height="18px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 25px">Tienes acceso a las novedades de RIMAC desde %%EMAIL%%. <br />
             Por favor, no respondas a este mensaje, este correo fue enviado desde una dirección de notificaciones y no puede aceptar correo electrónico entrante. Para consultas, escríbenos a
             <span style="color: #6F7DFF; text-decoration-line: underline;">atencionalcliente@rimac.com.pe</span>
             <br />
