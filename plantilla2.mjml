@@ -30,7 +30,7 @@
             </mj-column>
             <mj-column width="60%" padding="20px 20px 20px 5px">
               <mj-text align="left" color="#494F66" font-size="18px" font-weight="bold" font-family="Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
-                KIT Covid a S/123
+                KITs de prevención Covid
               </mj-text>
               <mj-text align="left" color="#494F66" font-size="14px" vertical-align="top" padding-bottom="15px">
                 Con oximetro careta, mascarillas K95 y más
@@ -101,9 +101,9 @@
     <mj-section background-color="#EF3340" padding-top="10px">
       <mj-group>
         <mj-column width="25%" padding-top="5px" vertical-align="bottom">
-          <mj-image align="left" width="90px" src="./images/2_ruleta.png" alt="Ruleta"></mj-image>
+          <mj-image align="left" width="90px" src="./images/2_ruleta.gif" alt="Ruleta"></mj-image>
         </mj-column>
-        <mj-column width="75%" padding="10px 15px">
+        <mj-column width="75%" padding="10px 15px 18px 15px">
           <mj-text align="left" color="white" font-size="16px" font-weight="bold" vertical-align="middle" padding-bottom="15px">
             ¡Ruleta ganadora!
           </mj-text>

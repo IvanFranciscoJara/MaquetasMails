@@ -16,7 +16,7 @@
       <mj-section background-color="#ffffff" padding-top="10px">
         <mj-column width="100%">
           <mj-text align="center" color="#676F8F" font-size="12px" font-family="Arial, sans-serif" padding="0 25px">
-            <strong>HOLA, XIMENA
+            <strong>HOLA, %%PRIMER_NOMBRE%%
               <br />
               <br />
           </mj-text>
