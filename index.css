@@ -1,0 +1,32 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.contenedor {
+  border: 1px solid rgb(114, 114, 114);
+  padding: 10px;
+}
+
+.Grupo {
+  border: 1px solid rgb(114, 114, 114);
+  padding: 20px;
+  margin: 10px;
+}
+
+.Grupo__Titulo {
+  font-weight: bold;
+  margin: 0;
+}
+a {
+  padding: 5px;
+  background-color: rgb(0, 70, 150);
+  color: white;
+  border-radius: 5px;
+  transition: 0.5s ease;
+  text-decoration: none;
+  margin-right: 15px;
+}
+a:hover {
+  cursor: pointer;
+  background-color: rgb(68, 68, 68);
+}
