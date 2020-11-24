@@ -1,0 +1,49 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0px"></mj-all>
+      <mj-class name="preheader" color="#000000" font-size="11px" padding="0px" font-family="Ubuntu, Helvetica, Arial, sans-serif" padding="0px"></mj-class>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image src="./images/2_Gif_beneficios_v2.gif" alt="Mi Mundo Rima" href="https://personas.rimac.com/micuenta/login?resource=/micuenta/mis-beneficios&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_clientes_beneficios:empieza-aqui:boton"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="10px">
+      <mj-column width="100%">
+        <mj-text align="left" color="#494F66" font-family="Arial, sans-serif" font-size="18px" padding="10px 35px 20px 35px">
+          ¡Hola <span style="color: #EF3340">%%PRIMER_NOMBRE%%!</span>
+        </mj-text>
+        <mj-text align="left" color="#494F66" font-family="Arial, sans-serif" font-size="18px" padding="0 35px 30px 35px" line-height="24px">
+          Estos son tus beneficios y descuentos de este mes.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <mj-section background-color="#F7F8FC" padding="25px 35px 0px 35px">
+      <mj-column vertical-align="top" width="33%">
+        <mj-text align="left" padding="10px 0">
+          <a style="color: #A3ABCC; font-size: 10px; text-decoration: none" href="https://www.pages08.net/rimac/FormularioDesuscripcion3/">ANULAR SUBSCRIPCIÓN</a>
+        </mj-text>
+      </mj-column>
+      <mj-column vertical-align="top" width="43%">
+        <mj-text align="left" color="#A3ABCC" font-size="10px" padding="10px 0 25px 0">
+          <a style="color: #A3ABCC; font-size: 10px; text-decoration: none" href="https://personas.rimac.com/micuenta/login?mcid=emailing:mail:01_2020_zona-privada_conversion:bbdd-clientes-todos:actualizar-mis-datos:link">ACTUALIZAR MIS DATOS</a>
+        </mj-text>
+      </mj-column>     
+    </mj-section>
+
+    <mj-section background-color="#F7F8FC" padding-bottom="30px">
+      <mj-column vertical-align="top" width="100%">
+        <mj-text align="left" color="#676F8F" font-size="10px" line-height="18px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 25px">Tienes acceso a las novedades de RIMAC desde %%EMAIL%%. <br />
+          Por favor, no respondas a este mensaje, este correo fue enviado desde una dirección de notificaciones y no puede aceptar correo electrónico entrante. Para consultas, escríbenos a
+          <a style="color: #6F7DFF; text-decoration-line: underline;" href="mailto:atencionalcliente@rimac.com.pe">atencionalcliente@rimac.com.pe</a>
+          <br />
+          <br />
+          © 2020 RIMAC SEGUROS Y REASEGUROS. Todos los Derechos Reservados.</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

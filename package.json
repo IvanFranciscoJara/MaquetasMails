@@ -4,13 +4,17 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "./node_modules/.bin/mjml -r *.mjml -o ./"
+    "build": "./node_modules/.bin/mjml -r *.mjml -o ./",
+    "dev": "mju --build -i ./templates -o ./build",
+    "dev2": "mjml templates/PlantillaSorteo_V1.mjml -o output.html"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
-  "dependencies": {},
+  "dependencies": {
+    "mjml-utils": "^2.2.1"
+  },
   "devDependencies": {
     "mjml": "^4.7.1"
   }
