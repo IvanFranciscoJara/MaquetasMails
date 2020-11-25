@@ -29,7 +29,7 @@
               <mj-image align="center" width="90px" src="./images/2_item1.jpg" alt="Kit Covid"></mj-image>
             </mj-column>
             <mj-column width="60%" padding="20px 20px 20px 5px">
-            <mj-text align="left" color="#EF3340" font-size="12px" font-weight="bold" font-family="Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
+              <mj-text align="left" color="#EF3340" font-size="12px" font-weight="bold" font-family="Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
                 ¡Delivery gratis!
               </mj-text>
               <mj-text align="left" color="#494F66" font-size="18px" font-weight="bold" font-family="Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
