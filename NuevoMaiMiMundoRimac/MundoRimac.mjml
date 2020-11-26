@@ -109,10 +109,10 @@
               <mj-text align="left" color="#494F66" font-size="32px" font-weight="bold" vertical-align="middle" padding-bottom="15px" font-family="Arial, sans-serif">
                 Gana <span style="color: #EF3340">S/100</span> <br /> en Rappi
               </mj-text>
-              <mj-text align="left" color="#494F66" font-size="14px" vertical-align="top" padding-bottom="15px">
+              <mj-text align="left" color="#494F66" font-size="14px" line-height="20px" vertical-align="top" padding-bottom="15px">
                 Participa registrandote o Iniciando sesión en Mi Mundo RIMAC, ¡y listo!
               </mj-text>
-              <mj-button align="left" background-color="#EF3340" font-weight="bold" border-radius="6px" font-size="10px" color="WHITE" inner-padding="7px 10px" href="https://personas.rimac.com/micuenta/login?mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_mundo_rimac:ingresa-aqui:boton">
+              <mj-button align="left" background-color="#EF3340" font-weight="bold" border-radius="6px" font-size="14px" color="WHITE" inner-padding="12px 24px" href="https://personas.rimac.com/micuenta/login?mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_mundo_rimac:ingresa-aqui:boton">
                 INGRESA AQUÍ
               </mj-button>
             </mj-column>
