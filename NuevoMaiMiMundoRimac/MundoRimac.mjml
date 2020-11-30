@@ -10,10 +10,10 @@
     <mj-body>
       <mj-section background-color="white" padding="0 0">
         <mj-column width="100%">
-          <mj-image src="./header.png" alt="logo" padding="0 0" href="https://personas.rimac.com/micuenta/login?mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_mundo_rimac:inicia-sesion:boton"></mj-image>          
+          <mj-image src="./header.gif" alt="logo" padding="0 0" href="https://personas.rimac.com/micuenta/login?mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_mundo_rimac:inicia-sesion:boton"></mj-image>          
         </mj-column>
       </mj-section>
-      <mj-section background-color="white" padding-top="10px">
+      <mj-section background-color="white" padding-top="20px">
         <mj-column width="100%">
           <mj-column width="90%" align="center">
             <!-- <mj-text align="left" color="#676F8F" font-size="12px" font-family="Arial, sans-serif" padding="0px 20px">
@@ -23,7 +23,7 @@
             </mj-text> -->
             <mj-text align="left" color="#494F66" font-size="32px" font-family="Arial, sans-serif" padding="0px 20px" line-height="40px" padding-bottom="32px">
               <strong>
-                Estas funciones <br /> te encantaran
+                %%CUC_PRIMERO_NOMBRE%% estas funciones te encantarán
               </strong>
             </mj-text>
           </mj-column>
@@ -33,13 +33,13 @@
       <mj-section background-color="white" padding="0px 20px">
         <mj-group width="90%">
           <mj-section width="100%">
-            <mj-column width="50%" padding-bottom="10px">
+            <mj-column width="50%" padding-bottom="15px">
               <mj-column width="95%" align="center" border-radius="12px" background-color="#F7F8FC">
                 <mj-text align="left" color="#494F66" font-size="24px" font-weight="bold" font-family="Arial, sans-serif" vertical-align="middle" padding="25px 25px 0 25px">
-                  Mis Seguros
+                  Mis seguros
                 </mj-text>
                 <mj-text align="left" color="#676F8F" font-size="14px" line-height="20px" font-family="Arial, sans-serif" vertical-align="top" padding="15px 25px">
-                  Revisa el detalle tus <br /> seguros al toque
+                  Revisa el detalle de tus <br /> seguros al toque.                  
                 </mj-text>
                 <mj-button align="left" background-color="#EF3340" font-weight="bold" border-radius="6px" font-size="10px" color="WHITE" padding="0 25px" inner-padding="7px 10px" href="https://personas.rimac.com/?resource=/micuenta/mis-servicios&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_mundo_rimac:mis-seguros:boton">
                   VER SEGUROS
@@ -47,13 +47,13 @@
                 <mj-image src="./item1.png" alt="Mis Seguros" width="0px"></mj-image>
               </mj-column>
             </mj-column>
-            <mj-column width="50%" padding-bottom="10px">
+            <mj-column width="50%" padding-bottom="15px">
               <mj-column width="95%" align="center" border-radius="12px" background-color="#F7F8FC">
                 <mj-text align="left" color="#494F66" font-size="24px" font-weight="bold" font-family="Arial, sans-serif" vertical-align="middle" padding="25px 25px 0 25px">
-                  Mis Pagos
+                  Mis pagos
                 </mj-text>
                 <mj-text align="left" color="#676F8F" font-size="14px" line-height="20px" font-family="Arial, sans-serif" vertical-align="top" padding="15px 25px">
-                  Revisa tus pagos o financia <br /> tus cuotas
+                  Revisa tus pagos o financia <br /> tus cuotas.
                 </mj-text>
                 <mj-button align="left" background-color="#EF3340" font-weight="bold" border-radius="6px" font-size="10px" color="WHITE" padding="0 25px" inner-padding="7px 10px" href="https://personas.rimac.com/?resource=/micuenta/estado-de-cuenta/resumen-de-cuenta&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_mundo_rimac:mis-pagos:boton">
                   VER PAGOS
@@ -68,13 +68,13 @@
       <mj-section background-color="white" padding="0px 20px">
         <mj-group width="90%">
           <mj-section width="100%">
-            <mj-column width="50%" padding-bottom="10px">
+            <mj-column width="50%" padding-bottom="15px">
               <mj-column width="95%" align="center" border-radius="12px" background-color="#F7F8FC">
                 <mj-text align="left" color="#494F66" font-size="24px" font-weight="bold" font-family="Arial, sans-serif" vertical-align="middle" padding="25px 25px 0 25px">
                   Servicios
                 </mj-text>
                 <mj-text align="left" color="#676F8F" font-size="14px" line-height="20px" font-family="Arial, sans-serif" vertical-align="top" padding="15px 25px">
-                  Utiliza el buscador de clínicas, <br /> Dr. en línea ...
+                  Utiliza los servicios de tu <br /> seguro.
                 </mj-text>
                 <mj-button align="left" background-color="#EF3340" font-weight="bold" border-radius="6px" font-size="10px" color="WHITE" padding="0 25px 0 25px" inner-padding="7px 10px" href="https://personas.rimac.com/?resource=/micuenta/mis-servicios&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_mundo_rimac:mis-servicios:boton">
                   VER SERVICIOS
@@ -82,13 +82,13 @@
                 <mj-image src="./item3.png" alt="Mis Seguros" width="0px"></mj-image>
               </mj-column>
             </mj-column>
-            <mj-column width="50%" padding-bottom="10px">
+            <mj-column width="50%" padding-bottom="15px">
               <mj-column width="95%" align="center" border-radius="12px" background-color="#F7F8FC">
                 <mj-text align="left" color="#494F66" font-size="24px" font-weight="bold" font-family="Arial, sans-serif" vertical-align="middle" padding="25px 25px 0 25px">
                   Beneficios
                 </mj-text>
                 <mj-text align="left" color="#676F8F" font-size="14px" line-height="20px" font-family="Arial, sans-serif" vertical-align="top" padding="15px 25px">
-                  Aprovecha dsctos. y <br />beneficios en varias marcas
+                  Aprovecha dsctos. y <br /> beneficios en varias marcas.
                 </mj-text>
                 <mj-button align="left" background-color="#EF3340" font-weight="bold" border-radius="6px" font-size="10px" color="WHITE" padding="0 25px" inner-padding="7px 10px" href="https://personas.rimac.com/micuenta/login?resource=/micuenta/mis-beneficios&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_mundo_rimac:mis-beneficios:boton">
                   VER BENEFICIOS
@@ -110,7 +110,7 @@
                 Gana <span style="color: #EF3340">S/100</span> <br /> en Rappi
               </mj-text>
               <mj-text align="left" color="#494F66" font-size="14px" line-height="20px" vertical-align="top" padding-bottom="15px">
-                Participa registrandote o Iniciando sesión en Mi Mundo RIMAC, ¡y listo!
+                Participa registrándote o Iniciando sesión en Mi Mundo RIMAC, ¡y listo!.
               </mj-text>
               <mj-button align="left" background-color="#EF3340" font-weight="bold" border-radius="6px" font-size="14px" color="WHITE" inner-padding="12px 24px" href="https://personas.rimac.com/micuenta/login?mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_mundo_rimac:ingresa-aqui:boton">
                 INGRESA AQUÍ
@@ -128,8 +128,8 @@
         <mj-column vertical-align="top" width="90%">
           <mj-text align="left" color="#676F8F" font-size="14px" font-family="Lato, Helvetica, Arial, sans-serif" padding="10px 25px">
             Revisa los
-            <a style="color: #6F7DFF; text-decoration-line: underline;" href="https://www.rimac.com/content/dam/rimac/common/documentos/TyC-Concurso-Macbook.pdf">
-              terminos y condiciones
+            <a style="color: #6F7DFF; text-decoration-line: underline;" href="http://rimac.com/content/dam/rimac/common/documentos/TyC-Sorteo-Mi-Mundo-RIMAC.pdf">
+              términos y condiciones
             </a>
           </mj-text>
         </mj-column>
