@@ -23,7 +23,7 @@
             </mj-text> -->
             <mj-text align="left" color="#494F66" font-size="32px" font-family="Arial, sans-serif" padding="0px 20px" line-height="40px" padding-bottom="32px">
               <strong>
-                %%CUC_PRIMERO_NOMBRE%% estas funciones te encantarán
+                %%CUC_PRIMERO_NOMBRE%% <br/> estas funciones te encantarán
               </strong>
             </mj-text>
           </mj-column>
@@ -167,10 +167,10 @@
         <mj-column vertical-align="top" width="23%" align="left" padding-bottom="15px">
           <mj-group vertical-align="top">
             <mj-column width="30%">
-              <mj-image align="left" width="9px" src="./images/facebook.jpg" alt="facebook" target="_blank" href="https://www.facebook.com/segurosrimac" title="Rimac"></mj-image>
+              <mj-image align="left" width="9px" src="./facebook.jpg" alt="facebook" target="_blank" href="https://www.facebook.com/segurosrimac" title="Rimac"></mj-image>
             </mj-column>
             <mj-column width="30%">
-              <mj-image align="left" width="18px" src="./images/linkedin.jpg" alt="linkedin" target="_blank" href="https://www.linkedin.com/company/rimac-seguros/" title="Rimac"></mj-image>
+              <mj-image align="left" width="18px" src="./linkedin.jpg" alt="linkedin" target="_blank" href="https://www.linkedin.com/company/rimac-seguros/" title="Rimac"></mj-image>
             </mj-column>
           </mj-group>
         </mj-column>
