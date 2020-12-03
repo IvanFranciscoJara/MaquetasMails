@@ -1,0 +1,123 @@
+<mjml owa="true">
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0px" font-family="Arial, sans-serif"></mj-all>
+      <mj-class name="preheader" color="#000000" font-size="11px" font-family="Arial, sans-serif" padding="0px"></mj-class>
+    </mj-attributes>
+    <mj-style>
+      @media only screen and (min-width:480px) {
+        .rimac-email-headline div {
+          font-size: 20px !important;
+          line-height: 28px !important;
+        }
+
+        .rimac-email-social {
+          text-align: right !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <mj-body>
+      <mj-section background-color="#ffffff" padding="0px">
+        <mj-column width="100%">
+          <mj-image src="./images/1_Gif_macbook-air.gif" alt="Rimac Sorteo MacBook" href="https://personas.rimac.com/mi-cuenta/home?mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_macbook_general:inicia-sesion:boton" border="0" />
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding="0 28px 0" css-class="rimac-container">
+        <mj-column width="480px">
+          <mj-text align="center" color="#676F8F" font-size="12px" line-height="18px" font-family="Arial, sans-serif" padding="0 25px" font-weight="bold">
+            HOLA, %%PRIMER_NOMBRE%%
+          </mj-text>
+          <mj-text padding="0" align="center" font-weight="bold" font-size="18px" line-height="24px" color="#494F66" css-class="rimac-email-headline">
+            Realiza una de estas gestiones y ¡entra automaticamente al sorteo de una <span style="color:#EF3340;font-weight:bold;white-space:nowrap;">Macbook Air!</span>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding="16px 28px">
+        <mj-group vertical-align="top" width="312px">
+          <mj-column width="32%" padding="0px">
+            <mj-image align="right" padding="0" width="100px" src="./images/personaje_6.gif" alt="Talleres" />
+          </mj-column>
+          <mj-column padding="0" padding-left="16px" padding-top="16px" width="67%">
+            <mj-text padding="0"  font-size="16px" line-height="28px" font-weight="bold" color="#494F66">
+              <span style="color: #EF3340">Actualiza</span> tus datos
+            </mj-text>
+            <mj-text padding="0"  font-size="16px" line-height="20px" color="#494F66" padding-bottom="16px">
+              Verifica que tus datos  esten correctos
+            </mj-text>
+            <mj-button align="left" background-color="#EF3340" font-weight="bold" border-radius="6px" font-size="10px" color="#ffffff" inner-padding="8px 16px" href="https://personas.rimac.com/?resource=/micuenta/datos-personales&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_macbook_salud:actualiza-aqui:boton">
+              <span style="color:#ffffff;">ACTUALIZA AQU&Iacute;</span>
+            </mj-button>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section background-color="white" padding="16px 28px">
+        <mj-group vertical-align="top" width="312px">
+          <mj-column padding="0"  width="67%" padding-right="16px">
+            <mj-text align="right" color="#494F66" font-size="16px" font-weight="bold" font-family="Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
+              Estado de <span style="color: #EF3340">cuenta</span>
+            </mj-text>
+            <mj-text align="right" color="#494F66" font-size="16px" font-family="Arial, sans-serif" vertical-align="top" padding-bottom="15px" line-height="20px">
+              Revisa tus pagos o financia tus cuotas
+            </mj-text>
+            <mj-button align="right" background-color="#EF3340" font-weight="bold" border-radius="6px" font-size="10px" color="#ffffff" inner-padding="8px 16px" href="https://personas.rimac.com/?resource=/micuenta/estado-de-cuenta/resumen-de-cuenta&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_macbook_general:sorteo-macbook-ver-pagos:boton">
+              <span style="color:#ffffff;">VER PAGOS</span>
+            </mj-button>
+          </mj-column>
+          <mj-column padding="0" width="32%">
+            <mj-image align="left" width="100px" src="./images/personaje_5.gif" alt="Estado de cuenta"></mj-image>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section background-color="white" padding="16px 28px">
+        <mj-group vertical-align="top" width="312px">
+          <mj-column width="32%" padding="0px">
+            <mj-image align="right" width="100px" src="./images/personaje_4.gif" alt="Actualiza Datos"></mj-image>
+          </mj-column>
+          <mj-column padding="0" padding-left="16px" padding-top="16px" width="67%">
+            <mj-text align="left" color="#494F66" font-size="16px" font-weight="bold" font-family="Arial, sans-serif" vertical-align="middle" padding-bottom="10px">
+              <span style="color: #EF3340;">Servicios</span> Rimac
+            </mj-text>
+            <mj-text align="left" color="#494F66" font-size="16px" font-family="Arial, sans-serif" vertical-align="top" padding-bottom="15px" line-height="20px">
+              Utiliza el buscador de clinicas, Dr. en linea y mas
+            </mj-text>
+            <mj-button align="left" background-color="#EF3340" font-weight="bold" border-radius="6px" font-size="10px" color="#ffffff" inner-padding="8px 16px" href="https://personas.rimac.com/?resource=/micuenta/mis-servicios&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_macbook_general:sorteo-macbook-mis-servicios:boton">
+              <span style="color:#ffffff;">VER SERVICIOS</span>
+            </mj-button>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section background-color="white" padding="20px 10px">
+        <mj-column vertical-align="top" width="90%">
+          <mj-text align="left" color="#676F8F" font-size="14px" line-height="24px" font-family="Arial, sans-serif" padding="10px 25px">
+            Revisa los
+            <a style="color: #6F7DFF; text-decoration-line: underline;" href="https://www.rimac.com/content/dam/rimac/common/documentos/Términos-y-Condiciones-del-Concurso-Macbook.pdf">
+              <span style="color:#6F7DFF;">t&eacute;rminos y condiciones</span>
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding="0px" border-top="1px solid #E4E8F7">
+        <mj-column padding="0px" padding="0px" border-bottom="1px solid #E4E8F7" border-right="1px solid #E4E8F7" border-left="1px solid #E4E8F7">
+          <mj-button width="100%" align="left" background-color="#ffffff" border-radius="6px" font-size="12px" color="#6F7DFF" inner-padding="16px 0px" href="https://personas.rimac.com/micuenta/login?resource=/micuenta/mis-beneficios&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_clientes_beneficios:beneficios:boton">
+            BENEFICIOS
+          </mj-button>
+        </mj-column>
+        <mj-column padding="0px" border-bottom="1px solid #E4E8F7" border-right="1px solid #E4E8F7">
+          <mj-button width="100%" align="left" background-color="#ffffff" border-radius="6px" font-size="12px" color="#6F7DFF" inner-padding="16px 0px" href="https://personas.rimac.com/micuenta/login?mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_macbook_general:doctor-linea:boton">
+            DOCTOR EN L&Iacute;NEA
+          </mj-button>
+        </mj-column>
+        <mj-column padding="0px" border-bottom="1px solid #E4E8F7" border-right="1px solid #E4E8F7">
+          <mj-button width="100%" align="left" background-color="#ffffff" border-radius="6px" font-size="12px" color="#6F7DFF" inner-padding="16px 0px" href="https://personas.rimac.com/?resource=/micuenta/mis-seguros&mcid=emailing:mail:11_2020_zona-privada_conversion:bbdd_clientes_beneficios:descarga-poliza:boton">
+            DESCARGA TU P&Oacute;LIZA
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      
+      <mj-include path="./components/footer.mjml" />
+    </mj-body>
+</mjml>
