@@ -1,6 +1,6 @@
 <mj-section background-color="#F7F8FC" padding="30px 28px 0px 28px">
   <mj-column padding="0" padding-top="10px">
-    <mj-text align="left" padding="4px 0" color="#A3ABCC">
+    <mj-text align="left" color="#A3ABCC">
       <a style="color: #A3ABCC; text-decoration: none; font-family: Arial, sans-serif; font-size: 10px; line-height: 18px;" href="https://www.pages08.net/rimac/FormularioDesuscripcion3/"><span style="color:#A3ABCC;">ANULAR SUBSCRIPCIÓN</span></a>
     </mj-text>
   </mj-column>
