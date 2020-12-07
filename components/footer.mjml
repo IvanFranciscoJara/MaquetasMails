@@ -11,8 +11,8 @@
   </mj-column>
   <mj-column padding="0px" padding-top="10px">
     <mj-social icon-size="20px" mode="horizontal" align="left" padding="0px" css-class="rimac-email-social">
-      <mj-social-element src="./images/facebook.png" href="https://rimac.com/"></mj-social-element>
-      <mj-social-element src="./images/linkedin.png" href="https://rimac.com/" padding="0px 10px"></mj-social-element>
+      <mj-social-element src="./images/facebook.png" href="https://www.facebook.com/segurosrimac" target="_blank"></mj-social-element>
+      <mj-social-element src="./images/linkedin.png" href="https://www.linkedin.com/company/rimac-seguros/" target="_blank" padding="0px 10px"></mj-social-element>
     </mj-social>
   </mj-column>
 </mj-section>
