@@ -5,6 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "./node_modules/.bin/mjml -r *.mjml -o ./",
+    "build2": "./node_modules/.bin/mjml -r ./NuevoMailMiMundoRimac/MundoRimac.mjml -o ./NuevoMailMiMundoRimac/mundo.html --config.minify true",
     "dev": "mju --build -i ./templates -o ./build",
     "dev2": "mjml templates/PlantillaSorteo_V1.mjml -o output.html"
   },
